@@ -692,7 +692,7 @@ export default function CreateTokenMain() {
 //       // Notice we pass in "Hello World" as the parameter to the constructor
 
 //       let temp = EthersBi
-gNumber.from(tokeninfo.totalsupply)
+// gNumber.from(tokeninfo.totalsupply)
 //       if(tokeninfo.decimal > 9) {
 //         let count = tokeninfo.decimal / 9;
 //         // console.log(count);
